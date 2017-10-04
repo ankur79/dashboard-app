@@ -2,14 +2,22 @@
   "name": "dashboard-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ankur79.github.io/dashboard-app",
   "dependencies": {
+    "@shopify/draggable": "^1.0.0-beta",
     "bootstrap": "^3.3.7",
+    "chart.js": "^2.7.0",
+    "font-awesome": "^4.7.0",
     "gh-pages": "^1.0.0",
     "react": "^16.0.0",
     "react-bootstrap": "^0.31.3",
-    "react-dom": "^16.0.0"
+    "react-chartjs-2": "^2.6.2",
+    "react-dom": "^16.0.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
+    "react-graph-vis": "^1.0.1",
     "react-scripts": "1.0.14"
   },
   "scripts": {
